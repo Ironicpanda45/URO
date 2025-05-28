@@ -1,0 +1,222 @@
+[
+  {
+    "id": "figura-mdf-de-gato",
+    "titulo": "Figura MDF de gato",
+    "precio": "29.99",
+    "categoria": "decoracion",
+    "imagen": "Img/Articulos/Articulo1.png",
+    "imagenAlt": "Img/Articulos/Articulo1Alt.png",
+    "descripcion": "Elegante figura de gato en MDF, perfecta para decorar cualquier espacio.",
+    "tamanos": [
+      { "nombre": "Pequeño", "precio": "19.99" },
+      { "nombre": "Mediano", "precio": "29.99" },
+      { "nombre": "Grande", "precio": "39.99" }
+    ]
+  },
+  {
+    "id": "figura-mdf-de-mariposa",
+    "titulo": "Figura MDF de mariposa",
+    "precio": "18.50",
+    "etiqueta": "Oferta",
+    "categoria": "infantil",
+    "imagen": "Img/Articulos/Articulo2.png",
+    "imagenAlt": "Img/Articulos/Articulo2Alt.png",
+    "descripcion": "Colorida figura de mariposa elaborada en MDF, ideal para habitaciones infantiles.",
+    "tamanos": [
+      { "nombre": "Pequeño", "precio": "12.50" },
+      { "nombre": "Mediano", "precio": "18.50" },
+      { "nombre": "Grande", "precio": "25.00" }
+    ]
+  },
+  {
+    "id": "figura-mdf-de-corazon",
+    "titulo": "Figura MDF de corazón",
+    "precio": "12.99",
+    "categoria": "regalo",
+    "imagen": "Img/Articulos/Articulo3.png",
+    "imagenAlt": "Img/Articulos/Articulo3Alt.png",
+    "descripcion": "Figura decorativa con forma de corazón, hecha en MDF, perfecta para regalar.",
+    "tamanos": [
+      { "nombre": "Pequeño", "precio": "9.99" },
+      { "nombre": "Mediano", "precio": "12.99" },
+      { "nombre": "Grande", "precio": "16.99" }
+    ]
+  },
+  {
+    "id": "nombre-personalizado-mdf",
+    "titulo": "Nombre personalizado MDF",
+    "precio": "35.00",
+    "categoria": "personalizado",
+    "imagen": "Img/Articulos/Articulo4.png",
+    "imagenAlt": "Img/Articulos/Articulo4Alt.png",
+    "descripcion": "Personaliza cualquier nombre con cortes precisos en MDF, ideal para regalos únicos.",
+    "tamanos": [
+      { "nombre": "Corto (hasta 6 letras)", "precio": "25.00" },
+      { "nombre": "Medio (7-10 letras)", "precio": "35.00" },
+      { "nombre": "Largo (más de 10 letras)", "precio": "45.00" }
+    ]
+  },
+  {
+    "id": "figura-mdf-de-unicornio",
+    "titulo": "Figura MDF de unicornio",
+    "precio": "22.75",
+    "categoria": "infantil",
+    "imagen": "Img/Articulos/Articulo5.png",
+    "imagenAlt": "Img/Articulos/Articulo5Alt.png",
+    "descripcion": "Encantadora figura de unicornio en MDF, ideal para decorar cuartos infantiles.",
+    "tamanos": [
+      { "nombre": "Pequeño", "precio": "16.75" },
+      { "nombre": "Mediano", "precio": "22.75" },
+      { "nombre": "Grande", "precio": "28.75" }
+    ]
+  },
+  {
+    "id": "letrero-mdf-bienvenidos",
+    "titulo": "Letrero MDF 'Bienvenidos'",
+    "precio": "28.00",
+    "etiqueta": "Oferta",
+    "categoria": "hogar",
+    "imagen": "Img/Articulos/Articulo6.png",
+    "imagenAlt": "Img/Articulos/Articulo6Alt.png",
+    "descripcion": "Letrero de bienvenida hecho en MDF, perfecto para entradas y recibidores.",
+    "tamanos": [
+      { "nombre": "Estándar", "precio": "28.00" },
+      { "nombre": "Grande", "precio": "35.00" }
+    ]
+  },
+  {
+    "id": "figura-mdf-de-arbol-de-la-vida",
+    "titulo": "Figura MDF de árbol de la vida",
+    "precio": "40.00",
+    "categoria": "pared",
+    "imagen": "Img/Articulos/Articulo7.png",
+    "imagenAlt": "Img/Articulos/Articulo7Alt.png",
+    "descripcion": "Símbolo del crecimiento y la armonía en una hermosa figura de MDF para la pared.",
+    "tamanos": [
+      { "nombre": "Mediano", "precio": "40.00" },
+      { "nombre": "Grande", "precio": "50.00" }
+    ]
+  },
+  {
+    "id": "figura-mdf-de-buho",
+    "titulo": "Figura MDF de búho",
+    "precio": "16.90",
+    "categoria": "decoracion",
+    "imagen": "Img/Articulos/Articulo8.png",
+    "imagenAlt": "Img/Articulos/Articulo8Alt.png",
+    "descripcion": "Figura de búho en MDF, símbolo de sabiduría y excelente adorno decorativo.",
+    "tamanos": [
+      { "nombre": "Pequeño", "precio": "12.90" },
+      { "nombre": "Mediano", "precio": "16.90" },
+      { "nombre": "Grande", "precio": "21.90" }
+    ]
+  },
+  {
+    "id": "reloj-de-pared-mdf",
+    "titulo": "Reloj de pared MDF",
+    "precio": "49.99",
+    "categoria": "pared",
+    "imagen": "Img/Articulos/Articulo9.png",
+    "imagenAlt": "Img/Articulos/Articulo9Alt.png",
+    "descripcion": "Reloj decorativo de pared elaborado en MDF, ideal para cualquier ambiente del hogar.",
+    "tamanos": [
+      { "nombre": "Mediano", "precio": "49.99" },
+      { "nombre": "Grande", "precio": "59.99" }
+    ]
+  },
+  {
+    "id": "portallaves-mdf-decorado",
+    "titulo": "Portallaves MDF decorado",
+    "precio": "25.00",
+    "categoria": "hogar",
+    "imagen": "Img/Articulos/Articulo10.png",
+    "imagenAlt": "Img/Articulos/Articulo10Alt.png",
+    "descripcion": "Portallaves en MDF decorado, funcional y elegante para tu entrada.",
+    "tamanos": [
+      { "nombre": "Estándar", "precio": "25.00" },
+      { "nombre": "Grande", "precio": "30.00" }
+    ]
+  },
+  {
+    "id": "figura-mdf-de-mandala-circular",
+    "titulo": "Figura MDF de mandala circular",
+    "precio": "33.50",
+    "etiqueta": "Oferta",
+    "categoria": "pared",
+    "imagen": "Img/Articulos/Articulo11.png",
+    "imagenAlt": "Img/Articulos/Articulo11Alt.png",
+    "descripcion": "Mandala circular de MDF con diseño artístico, ideal para ambientes relajantes.",
+    "tamanos": [
+      { "nombre": "Mediano", "precio": "33.50" },
+      { "nombre": "Grande", "precio": "43.50" }
+    ]
+  },
+  {
+    "id": "figura-mdf-amor",
+    "titulo": "Figura MDF 'Amor'",
+    "precio": "19.99",
+    "categoria": "regalo",
+    "imagen": "Img/Articulos/Articulo12.png",
+    "imagenAlt": "Img/Articulos/Articulo12Alt.png",
+    "descripcion": "Figura decorativa con la palabra 'Amor' en MDF, ideal para regalos románticos.",
+    "tamanos": [
+      { "nombre": "Pequeño", "precio": "14.99" },
+      { "nombre": "Mediano", "precio": "19.99" },
+      { "nombre": "Grande", "precio": "24.99" }
+    ]
+  },
+  {
+    "id": "figura-mdf-de-perrito",
+    "titulo": "Figura MDF de perrito",
+    "precio": "17.50",
+    "categoria": "infantil",
+    "imagen": "Img/Articulos/Articulo13.png",
+    "imagenAlt": "Img/Articulos/Articulo13Alt.png",
+    "descripcion": "Adorable figura de perrito hecha en MDF, perfecta para decoración infantil.",
+    "tamanos": [
+      { "nombre": "Pequeño", "precio": "13.50" },
+      { "nombre": "Mediano", "precio": "17.50" },
+      { "nombre": "Grande", "precio": "22.50" }
+    ]
+  },
+  {
+    "id": "decoracion-mdf-home",
+    "titulo": "Decoración MDF 'Home'",
+    "precio": "27.90",
+    "categoria": "hogar",
+    "imagen": "Img/Articulos/Articulo14.png",
+    "imagenAlt": "Img/Articulos/Articulo14Alt.png",
+    "descripcion": "Decoración con la palabra 'Home' en MDF, ideal para salas y entradas.",
+    "tamanos": [
+      { "nombre": "Estándar", "precio": "27.90" },
+      { "nombre": "Grande", "precio": "34.90" }
+    ]
+  },
+  {
+    "id": "figura-mdf-de-elefante",
+    "titulo": "Figura MDF de elefante",
+    "precio": "23.20",
+    "categoria": "decoracion",
+    "imagen": "Img/Articulos/Articulo15.png",
+    "imagenAlt": "Img/Articulos/Articulo15Alt.png",
+    "descripcion": "Figura de elefante tallada en MDF, perfecta para espacios zen o exóticos.",
+    "tamanos": [
+      { "nombre": "Pequeño", "precio": "17.20" },
+      { "nombre": "Mediano", "precio": "23.20" },
+      { "nombre": "Grande", "precio": "29.20" }
+    ]
+  },
+  {
+    "id": "organizador-mdf-para-escritorio",
+    "titulo": "Organizador MDF para escritorio",
+    "precio": "38.00",
+    "categoria": "hogar",
+    "imagen": "Img/Articulos/Articulo16.png",
+    "imagenAlt": "Img/Articulos/Articulo16Alt.png",
+    "descripcion": "Práctico organizador de MDF para mantener tu escritorio ordenado y elegante.",
+    "tamanos": [
+      { "nombre": "Estándar", "precio": "38.00" },
+      { "nombre": "Grande", "precio": "45.00" }
+    ]
+  }
+]
