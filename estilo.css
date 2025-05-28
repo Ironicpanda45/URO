@@ -830,7 +830,7 @@ footer {
   text-decoration: 0;
   padding: 10px 30px;
   border: 2px var(--color-tertiary) solid;
-  color: var(--color-link-nav);
+  color: var(--color-secondary);
   border-radius: 20px;
   cursor: pointer;
   transition: 0.3s ease;
