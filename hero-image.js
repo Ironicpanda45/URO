@@ -1,13 +1,13 @@
     const heroImage = document.querySelector('.hero-image');
     const heroImages = [
-        'img/hero/hero1.png',
-        'img/hero/hero2.png',
-        'img/hero/hero3.png',
-        'img/hero/hero4.png',
-        'img/hero/hero5.png',
-        'img/hero/hero6.png',
-        'img/hero/hero7.png',
-        'img/hero/hero8.png'
+        'Img/Hero/Hero1.png',
+        'Img/Hero/Hero2.png',
+        'Img/Hero/Hero3.png',
+        'Img/Hero/Hero4.png',
+        'Img/Hero/Hero5.png',
+        'Img/Hero/Hero6.png',
+        'Img/Hero/Hero7.png',
+        'Img/Hero/Hero8.png'
     ];
     let currentIndex = 0;
 
